@@ -1,2 +1,6 @@
 # composer-app
-Moved composer app to new repo
+Angular with TypeScript
+
+# contributors
+Johnny Kobyluck  
+Professor Krasso  
