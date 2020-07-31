@@ -1,0 +1,15 @@
+.composer-table {
+  margin: auto;
+  display: block;
+}
+
+h2 {
+  margin: auto;
+  text-align: center;
+}
+
+.textSearch {
+  width: 30%;
+  float: right;
+  margin-bottom: 5px;
+}

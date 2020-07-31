@@ -1,0 +1,31 @@
+img {
+  display: block;
+  margin: auto;
+  max-width: 100px;
+}
+
+div {
+  margin: auto;
+  width: 50%;
+}
+
+.img-holder {
+  height: 150px;
+}
+
+.right-img {
+  padding: 0;
+}
+
+.left-img {
+  padding: 0;
+}
+
+p {
+  text-align: center;
+}
+
+h2 {
+  margin: auto;
+  text-align: center;
+}
